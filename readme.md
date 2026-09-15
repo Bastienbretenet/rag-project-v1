@@ -2,6 +2,8 @@
 
 Pipeline RAG (source de documents → chunking → embedding → vector store) avec interface Streamlit.
 
+> 🚀 **Démo en ligne :** [https://rag-1.app.bastienbretenet.fr/](https://rag-1.app.bastienbretenet.fr/)
+
 ## Lancer le projet
 
 1. Copier `.env.example` vers `.env` et renseigner les variables (au minimum `DATABASE_URL` et la clé API du provider LLM/embedding choisi).

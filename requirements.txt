@@ -1,0 +1,8 @@
+streamlit
+pydantic-settings
+pytest
+requests
+pypdf
+psycopg[binary]
+tiktoken
+pgvector
